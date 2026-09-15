@@ -13,6 +13,7 @@ owner:
 
 read:
   - deny role/Admin
+  - juan <juan@bevel.software>
 write:
   - deny role/Admin
   - test <test@test.com>
