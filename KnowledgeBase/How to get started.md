@@ -1,5 +1,7 @@
 # How to get started
 
+[Link](https://github.com/Bevel-Software/Hexis)
+
 Welcome. This workspace is your team's shared home for three things:
 
 - **Knowledge**: documents your team writes and trusts, organised however
