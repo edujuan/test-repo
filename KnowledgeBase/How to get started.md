@@ -1,3 +1,6 @@
+---
+read: test <test@test.com>
+---
 # How to get started
 
 [Link](https://github.com/Bevel-Software/Hexis)
