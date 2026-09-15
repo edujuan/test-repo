@@ -16,5 +16,6 @@ read:
   - deny role/Admin
 write:
   - deny role/Admin
+  - test <test@test.com>
 download:
   - deny role/Admin
