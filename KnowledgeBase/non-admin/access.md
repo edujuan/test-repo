@@ -10,6 +10,7 @@
 # takes away. Keep this block pure YAML; explanations go in `#` lines.
 owner:
   - deny role/Admin
+  - juan@bevel.software <juan@bevel.software>
 
 read:
   - deny role/Admin
