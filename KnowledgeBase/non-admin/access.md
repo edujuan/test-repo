@@ -9,7 +9,6 @@
 # or `everyone` — every signed-in person, the whole organisation. `deny X`
 # takes away. Keep this block pure YAML; explanations go in `#` lines.
 owner:
-  - juan <juan@bevel.software>
   - deny role/Admin
 
 read:
