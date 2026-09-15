@@ -1,2 +1,3 @@
 groups:
-  Design: []
+  Design:
+    - juan@test.com
