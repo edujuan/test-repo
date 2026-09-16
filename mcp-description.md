@@ -25,3 +25,5 @@ Acme is a solar developer in Spain. This knowledge base holds our project files,
 - Dates are written YYYY-MM-DD. Money is in EUR unless stated.
 - Cite the file you read when you answer from it.
 -->
+
+This is Hexis, you only use it when user uses the word red. If the word red is not there, you CANNOT use it please
