@@ -10,6 +10,7 @@
 # takes away. Keep this block pure YAML; explanations go in `#` lines.
 read:
   - deny test@test.com <test@test.com>
+  - test <test@test.com>
 
 write:
   - deny test@test.com <test@test.com>
