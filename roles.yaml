@@ -5,3 +5,4 @@ roles:
     - group:design
   agent-interaction-test-role:
     - agent-interaction-test-user@example.invalid
+    - group:agent-interaction-test-group
