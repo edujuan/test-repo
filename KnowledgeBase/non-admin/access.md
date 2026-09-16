@@ -12,9 +12,7 @@ read:
   - deny test@test.com <test@test.com>
   - test <test@test.com>
 
-write:
-  - deny test@test.com <test@test.com>
-  - test@test.com <test@test.com>
+write: []
 download:
   - deny test@test.com <test@test.com>
 owner:
