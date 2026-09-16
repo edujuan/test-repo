@@ -13,8 +13,11 @@ read:
 read:
   - juan <juan@bevel.software>
   - agent-interaction-test-group
+  - test <test@test.com>
 
 write:
   - juan <juan@bevel.software>
 owner:
   - juan <juan@bevel.software>
+download:
+  - test <test@test.com>
