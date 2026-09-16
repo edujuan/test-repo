@@ -12,6 +12,7 @@ read:
 # signed-in users. Keep this block pure YAML; explanations go in `#` lines.
 read:
   - juan <juan@bevel.software>
+  - agent-interaction-test-group
 
 write:
   - juan <juan@bevel.software>
