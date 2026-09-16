@@ -2,5 +2,6 @@ roles:
   Admin:
     - juan@bevel.software
     - juan@test.com
+    - group:design
   agent-interaction-test-role:
     - agent-interaction-test-user@example.invalid
