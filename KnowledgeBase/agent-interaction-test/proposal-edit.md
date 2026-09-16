@@ -1,1 +1,1 @@
-Proposal fixture: original
+Proposal fixture: edited once (R12)
