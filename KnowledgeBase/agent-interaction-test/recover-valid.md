@@ -1,0 +1,1 @@
+Valid proposal after a failed one
