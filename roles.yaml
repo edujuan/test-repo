@@ -2,5 +2,4 @@ roles:
   Admin:
     - juan@test.com
   agent-interaction-test-role:
-    - agent-interaction-test-user@example.invalid
     - group:agent-interaction-test-group
