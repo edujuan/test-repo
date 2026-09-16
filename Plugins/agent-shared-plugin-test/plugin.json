@@ -1,4 +1,11 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
-  "name": "agent-shared-plugin-test"
+  "name": "agent-shared-plugin-test",
+  "extensions": {
+    "software.bevel.hexis": {
+      "skills": [
+        "Skills/Testing/test-shared-linking"
+      ]
+    }
+  }
 }
