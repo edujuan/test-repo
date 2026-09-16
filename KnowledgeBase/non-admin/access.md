@@ -14,6 +14,7 @@ read:
 
 write:
   - deny test@test.com <test@test.com>
+  - test@test.com <test@test.com>
 download:
   - deny test@test.com <test@test.com>
 owner:
