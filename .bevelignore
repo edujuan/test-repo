@@ -21,3 +21,6 @@ CLAUDE.md
 
 **/access.md
 roles.yaml
+
+# Added by the platform: agent instructions are edited from External agent access.
+/mcp-description.md
