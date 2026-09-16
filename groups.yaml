@@ -2,3 +2,5 @@ groups:
   Design:
     - juan@test.com
     - test@test.com
+  agent-interaction-test-group:
+    - test@test.com
