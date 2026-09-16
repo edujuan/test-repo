@@ -1,5 +1,5 @@
 ---
-read: test <test@test.com>
+read: []
 download: test@test.com <test@test.com>
 ---
 # How to get started
