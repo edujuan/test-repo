@@ -10,6 +10,7 @@
 # takes away. Keep this block pure YAML; explanations go in `#` lines.
 write:
   - test <test@test.com>
+  - test333 <test333@test.com>
 
 download:
   - test <test@test.com>
