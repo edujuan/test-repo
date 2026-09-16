@@ -1,5 +1,4 @@
 roles:
   Admin:
     - juan@test.com
-  agent-interaction-test-role:
-    - group:agent-interaction-test-group
+  agent-interaction-test-role: []
