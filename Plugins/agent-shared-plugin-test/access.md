@@ -14,6 +14,7 @@ read:
   - juan <juan@bevel.software>
   - agent-interaction-test-group
   - test <test@test.com>
+  - ali.raza <ali.raza@bevel.software>
 
 write:
   - juan <juan@bevel.software>
