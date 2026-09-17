@@ -1,5 +1,15 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "disposable-credentials",
-  "displayName": "Disposable Credentials"
+  "displayName": "Disposable Credentials",
+  "description": "QA fixtures for credential handling: shared admin keys, per-user keys, manual OAuth (GitHub) and automatic OAuth (Linear MCP server). Disposable - safe to edit, break and delete.",
+  "extensions": {
+    "software.bevel.hexis": {
+      "mcpServers": {
+        "linear": {
+          "description": "Linear's official remote MCP server. QA fixture (2026-09-17) for the oauth-auto path: no variables or headers are declared on purpose - the platform is expected to discover the server's OAuth metadata, register itself and surface a per-user sign-in on the Connect page. Verify with list_tool_setup: setup.kind should read oauth-auto with no setup.reason."
+        }
+      }
+    }
+  }
 }
